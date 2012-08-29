@@ -177,6 +177,10 @@ table.projects td.desc {
   .bubble a {
     text-decoration: none;
     color: #fff; }
+  .bubble b {
+    text-decoration: none;
+    color: #fff;
+  }
     .bubble a:hover {
       text-decoration: underline; }
   p {
